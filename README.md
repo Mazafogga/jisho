@@ -1,0 +1,2 @@
+# jisho
+Micro Dictionary implementation
